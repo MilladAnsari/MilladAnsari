@@ -1,5 +1,6 @@
 <div align="center">
   <br />
+  
   <img src="smart-home-animation.svg" width="760" alt="Animated smart home with connected IoT devices" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=850&color=0E6E55&center=true&vCenter=true&width=760&lines=Embedded+Systems+%7C+IoT+%7C+Edge+Computing;Real-Time+Systems+%7C+Embedded+AI" alt="Embedded Systems, IoT, Edge Computing, Real-Time Systems, and Embedded AI" />
